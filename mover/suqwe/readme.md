@@ -1,4 +1,4 @@
-## 基本信息
+`o6## 基本信息
 - Sui钱包地址: `0x9c95fc611378611ffeb2d0324afa956a476a1d5562baa6e05a9eb306a03e0bbf`
 > 首次参与需要完成第一个任务注册好钱包地址才被合并，并且后续学习奖励会打入这个地址
 - github: `suqwe`
@@ -13,7 +13,7 @@
 ## 任务
 
 ##   01 hello move  
-- [] Sui cli version:sui 1.24.1-2d7f294f7
+- [] Sui cli version:sui 1.24.1-2d7f294f7 & sui 1.26.0-d709c305ebf3
 - [] Sui钱包截图: ![Sui钱包截图](./images/suqwe_0bbf.png)
 - [] package id:0x4cf10488c39f53f8a44b5bcc907e03aa4bf5211d637b13203abf4ff1cd12a9de 
 - [] package id 在 scan上的查看截图:![Scan截图](./images/hello_move_package_id.png)
